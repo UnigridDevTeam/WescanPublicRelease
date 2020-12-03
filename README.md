@@ -1,2 +1,2 @@
 # WescanPublicRelease
-Repo pour système de MAJ WescanLinuxCLI
+Repo du code source back office Wescan pour système de MAJ wespci
